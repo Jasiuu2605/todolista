@@ -40,14 +40,7 @@ class App extends Component {
         active: true,
         finishDate: null,
       },
-      {
-        id: 4,
-        text: "sprzedać butelki po piwie (20 skrzynek)",
-        date: "2020-11-12",
-        important: false,
-        active: true,
-        finishDate: null,
-      },
+      
       {
         id: 5,
         text: "jeszcze raz pomalować dom",
@@ -64,14 +57,7 @@ class App extends Component {
         active: true,
         finishDate: null,
       },
-      {
-        id: 7,
-        text: "nie odbierać poleconego od komornika",
-        date: "2020-11-12",
-        important: false,
-        active: true,
-        finishDate: null,
-      },
+      
       {
         id: 8,
         text: "kupić 2 butelki litrowe",
